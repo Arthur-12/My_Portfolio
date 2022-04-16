@@ -1,0 +1,51 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.showcase{
+  background: rgb(0, 0, 0);
+  height: 100vh;
+}
+.work{
+  text-align: center;
+}
+.form{
+  margin: 0;
+  padding: 0;
+}
+.Arthur{
+  font-weight: 900;
+}
+
+footer{
+  padding: 70px;
+  background-color: black;
+  color: #ffffff;
+  text-align: center;
+}
+footer input{
+  width: 65%;
+}
+footer textarea{
+  width: 65%;
+}
+footer button{
+  margin-top: 30px;
+  width: 45%;
+  background-color: gold;
+  border-radius: 15px;
+  border: none;
+  font-weight: bold;
+  padding: 15px;
+}
+.icon{
+  font-size: 30px;
+  padding: 15px;
+  display: flex;
+}
+.fa{
+  padding: 20px;
+}
